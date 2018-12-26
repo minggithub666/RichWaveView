@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="waveStartColor" format="color" />
+    <attr name="waveEndColor" format="color" />
+    <attr name="waveHeight" format="dimension" />
+    <attr name="waveWidth" format="dimension" />
+
+    <declare-styleable name="RichWaveView">
+        <attr name="waveStartColor" />
+        <attr name="waveEndColor" />
+        <attr name="waveHeight" />
+        <attr name="waveWidth" />
+    </declare-styleable>
+
+</resources>
